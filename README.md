@@ -14,4 +14,6 @@ a minimalistic & simple https://github.com/fastfetch-cli/fastfetch type tool des
 + --help, -h
 + --issue
 ## Pictures
-Nothing here yet...
+WSL: 
+<img width="759" height="171" alt="image" src="https://github.com/user-attachments/assets/2c149eb7-97c5-4dd4-acce-f26f2dc13300" />
+
